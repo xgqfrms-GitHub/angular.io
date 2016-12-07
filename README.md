@@ -1,3 +1,18 @@
+https://github.com/ufo-github/angular.io/blob/gh-pages/CNAME  
+
+http://angular2.webgeeker.xyz
+
+
+
+CNAME
+
+
+
+***********
+***********
+
+
+
 # Angular.io
 [![Build Status][travis-badge]][travis-badge-url]
 
